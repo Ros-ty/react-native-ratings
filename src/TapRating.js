@@ -90,10 +90,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   reviewText: {
-    fontSize: 25,
-    fontWeight: 'bold',
+    fontSize: 18,
     margin: 10,
-    color: 'rgba(230, 196, 46, 1)'
+    color: '#4f1171'
   },
   starContainer: {
     flexDirection: 'row',
